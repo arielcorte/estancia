@@ -1,0 +1,25 @@
+{
+  "name": "estancia",
+  "version": "1.0.0",
+  "description": "Simulate a game of \"Estanciero\"",
+  "keywords": [
+    "estanciero",
+    "double-entry",
+    "ledger"
+  ],
+  "homepage": "https://github.com/arielcorte/estancia#readme",
+  "bugs": {
+    "url": "https://github.com/arielcorte/estancia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielcorte/estancia.git"
+  },
+  "license": "ISC",
+  "author": "arielcorte",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
